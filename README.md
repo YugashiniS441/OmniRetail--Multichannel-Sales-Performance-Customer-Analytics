@@ -72,7 +72,7 @@ Campaign-level spending and outcome tracking.
 
 2. Launch the notebook:
    ```bash
-   jupyter notebook Omni_retail.ipynb
+   jupyter notebook omni_retail_analysis.ipynb
    ```
 
 3. **Install the required Python libraries** by running:
