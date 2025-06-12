@@ -90,9 +90,9 @@ Campaign-level spending and outcome tracking.
 
 ## 📈 Results Summary
 
-- **Total Revenue**: ₹355.47K
+- **Total Revenue**: $355.47K
 - **Average Profit Margin**: -52.87
-- **Customer Lifetime Value (CLV)**: ₹973.89
+- **Customer Lifetime Value (CLV)**: $973.89
 
 ### Key Insights:
 - Online channel performs better than offline in both revenue and margin.
