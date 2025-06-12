@@ -85,7 +85,7 @@ Campaign-level spending and outcome tracking.
      ```
      Source_Code/PowerBI_Insights/retail_sales_dashboard.pbix
      ```
-   - Interact with the visuals to explore insights by neighborhood, price, reviews, and room type.
+   - Interact with the visuals to explore insights by Campaign_ID,Age,Channel,Date.
 
 
 ## 📈 Results Summary
